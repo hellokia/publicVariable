@@ -1,0 +1,1 @@
+The scatter plot graph was made to easily compare which researchers took the most/least amount of paid time off compared to how many days they have worked. The graph's x axis is days worked, while the y axis is PTO used. Each plot, when hovered, contains the information of the researcher's first name, last name, total days worked and PTO taken.

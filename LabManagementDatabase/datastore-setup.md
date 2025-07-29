@@ -1,0 +1,1 @@
+I prefer SQL as it is what I am most proficeint at (of the choices), but PostgreSQL is good as it can hold large data and can handle complex SQL inquries. If it were a small project SQLite would work, and MySQL would be better for web based apps that don’t need many complex inqueries.
